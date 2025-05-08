@@ -1,0 +1,10 @@
+{
+  "username": "YOURUSERNAME.bsky.social",
+  "password": "your-bluesky-key",
+  "spreadsheet_id": "google-spreadsheet-id",
+  "sheet_name": "sheet-name",
+  "user_list_file": "user_list.txt",
+  "post_limit": 10,
+  "delay_between_users": 1,
+  "openai_api_key": "your-open-ai-key"
+}

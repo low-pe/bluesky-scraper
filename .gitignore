@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Fetch & Cron Logs
+bluesky_fetch.log
+cron.log
+
+# Credentials
+config.json
+credentials.json
+
+# Clutter
+*.log
+*.pid
+bluesky-scraper.git
+
+# Scraped Posts & User List
+
+scraped_posts.json
+user_list.txt
