@@ -1,7 +1,6 @@
 # bluesky-scraper
 Grabs BlueSky posts via API, classifies them based on Controversial score via openai API and then inserts them into Google sheets via sheets API
 
-<<<<<<< HEAD
 Google sheets template - https://docs.google.com/spreadsheets/d/1Jq2dA7lKcncI8co5-zM9kQJFRbkk2jfB3iFwBCakA1A/edit?usp=sharing
 
 Input your Bluesky, openai credentials and the google sheeet ID/name into config.json.example and then rename it to config.json
