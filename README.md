@@ -9,12 +9,3 @@ Input your Bluesky, openai credentials and the google sheeet ID/name into config
 Input your google sheets project API credentials into credentials.json.example and rename it to credentials.json
 
 Add a new line delimited list of bluesky users you want to scrape to user_list.txt
-=======
-
-
-Rename config.json.example to config.json and input your Bluesky login credentials, google spreadsheet ID and sheet name, and openai key
-
-Rename credentials.json.example to credentials.json and input your Google Sheets API credentials 
-
-An example google sheets template: 
->>>>>>> ffa4ca1 (Added example files)
